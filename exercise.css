@@ -1,0 +1,27 @@
+#texth1{
+	color:orange;
+	text-transform: uppercase;
+	text-align: center;
+}
+#textp1{
+	color: grey;
+	text-indent: 50px;
+}
+img{
+	max-width: 300px;max-height:300px;
+	border-radius: 30px;
+	margin: 0 auto;
+	display: block;
+}
+a:link{
+	color: orange;
+}
+a:hover{
+	color: green;
+}
+a:active{
+color: red;
+}
+a:visited{
+color: orange;
+}
